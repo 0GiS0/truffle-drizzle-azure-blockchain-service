@@ -1,8 +1,8 @@
 const path = require('path'),
   Web3 = require("web3"),
-  stark = "https://snow.blockchain.azure.com:3200/_ALZqdJRlpwCMZDkWu7bSMfz",
-  myAccount = "0xb0A3763eebA93CfAbeadd42fe270509a68B2bDB8",
-  myPassword = "$Passw0rd";
+  stark = "https://stark.blockchain.azure.com:3200/CTmo00mPUsaCVqOF_dcZPIl9",
+  myAccount = "0xc9c3748c626d013045C32447b8D834E76F2817E5",
+  myPassword = "Passw0rd";
 
 
 module.exports = {

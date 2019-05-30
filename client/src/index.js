@@ -11,7 +11,7 @@ const options = {
     web3: {
         fallback: {
             type: 'ws',
-            url: 'wss://snow.blockchain.azure.com:3300/_ALZqdJRlpwCMZDkWu7bSMfz'
+            url: 'wss://stark.blockchain.azure.com:3300/CTmo00mPUsaCVqOF_dcZPIl9'
         }
     }
 };

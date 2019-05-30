@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/0GiS0/time-control-truffle-drizzle#readme",
   "dependencies": {
+    "truffle": "^5.0.19",
     "web3": "^1.0.0-beta.37"
   }
 }
