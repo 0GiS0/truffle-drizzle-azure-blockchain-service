@@ -1,0 +1,26 @@
+{
+  "name": "time-control-truffle-drizzle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0GiS0/time-control-truffle-drizzle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0GiS0/time-control-truffle-drizzle/issues"
+  },
+  "homepage": "https://github.com/0GiS0/time-control-truffle-drizzle#readme",
+  "dependencies": {
+    "web3": "^1.0.0-beta.37"
+  }
+}
